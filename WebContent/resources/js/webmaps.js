@@ -122,7 +122,7 @@ function infoWindowContent(description, address){
 	+ description
 	+ '</h3>'
 	+ '<div id="bodyContent">'
-	+ '<p>' + address + '</p>' + '</div>' + '</div>';
+	+ '<p>' + address + '</p>' + '</div></div>';
 	
 	return contentString;
 }
